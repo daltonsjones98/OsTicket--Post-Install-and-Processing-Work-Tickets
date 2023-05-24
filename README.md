@@ -1,4 +1,4 @@
-# OsTicket--Post-Install-and-processing-work-tickets
+# OsTicket--Post-Install-and-Processing-Work-Tickets
 
 <h2>Environments and Applications Used</h2>
 
