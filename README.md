@@ -1,25 +1,26 @@
 # OsTicket--Post-Install-and-Processing-Work-Tickets
 
+
  <h2>Environments and Applications Used</h2>
 
- - Local Host PC and Azure Virtual Machines
- - Remote Desktop
- - Internet Information Services (IIS)
- - osTicket
+    - Local Host PC and Azure Virtual Machine 
+    - Remote Desktop
+    - Internet Information Services (IIS)
+    - osTicket
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+    - Windows 10</b> (21H2)
 
  <h2>Post-Install Configuration Objectives</h2> 
 
-1. Complete helpdesk setup
+    1. Complete helpdesk setup
 
-     &emsp;- Create Departments, Agents, and Teams                     
-   &emsp;-  Create SLA for company and specific departments                
-      &emsp;-       Create end users and login                   
-     &emsp;
-           - Compose Ticket request themes and catagories
+         - Create Departments, Agents, and Teams                     
+         - Create SLA for company and specific departments                
+         -  Create end users and login                   
+         - Compose Ticket request themes and catagories
 
 2. Process Tickets
 
@@ -41,3 +42,11 @@
 - Ecalate Tickets to System Admin 
 - Item 4
 - Item 5
+
+***
+<ul>
+     <li> red </li>
+***
+<ul>
+***
+
