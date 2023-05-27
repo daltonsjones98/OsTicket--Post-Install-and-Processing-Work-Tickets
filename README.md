@@ -4,7 +4,7 @@
 
 <ol type="I">
 	
- _<li> <h2>Environments and Applications Used</h2> </li>_
+ <h2>Environments and Applications Used</h2> 
 
 
    - Local Host PC and Azure Virtual Machine 
@@ -17,7 +17,7 @@
 &emsp;
 &emsp;
 
- _<li>  <h3>Post-Install Configuration Objectives</h3> </li>_
+  <h3>Post-Install Configuration Objectives</h3>
 
    1. Complete helpdesk setup
 
@@ -33,7 +33,7 @@
 
 &emsp;
 
- _<li> <h3>Configuration Steps</h3> </li>_
+ <h3>Configuration Steps</h3>
 -Images
 
 1. Create Agents, Departments, and Teams 
@@ -42,7 +42,7 @@
 
 &emsp;
 
- _<li> <h3>Working through Tickets</h3> </li>_
+  <h3>Working through Tickets</h3>
 -Images
 
 1. Assign Agents to tickets with their corresponding departments
