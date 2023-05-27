@@ -2,16 +2,16 @@
 
  <h2>Environments and Applications Used</h2>
 
-- Local Host PC and Azure Virtual Machines
-- Remote Desktop
-- Internet Information Services (IIS)
-- osTicket
+ - Local Host PC and Azure Virtual Machines
+ - Remote Desktop
+ - Internet Information Services (IIS)
+ - osTicket
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+ <h2>Post-Install Configuration Objectives</h2> 
 
 1. Complete helpdesk setup
 
