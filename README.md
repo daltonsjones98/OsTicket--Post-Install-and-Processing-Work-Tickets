@@ -15,14 +15,18 @@
 
 1. Complete helpdesk setup
 
-   &emsp;-Create Departments, Agents, and Teams                     
- &emsp;-Create SLA for company and specific departments
- 
-<h2>Configuration Steps</h2> 
+     &emsp;- Create Departments, Agents, and Teams                     
+   &emsp;-  Create SLA for company and specific departments                
+      &emsp;-       Create end users and login                   
+ &emsp;
+       - Compose Ticket request themes and catagories
+
+ <h2>Configuration Steps</h2> 
 -Images
 
 1. Create Agents, Departments, and Teams 
 2. Create end users and login
+3. Assign Permissions 
 
 
 <h2>Working through Tickets</h2>
