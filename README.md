@@ -1,6 +1,6 @@
 # OsTicket--Post-Install-and-Processing-Work-Tickets
 
-<h2>Environments and Applications Used</h2>
+ <h2>Environments and Applications Used</h2>
 
 - Local Host PC and Azure Virtual Machines
 - Remote Desktop
@@ -18,8 +18,14 @@
      &emsp;- Create Departments, Agents, and Teams                     
    &emsp;-  Create SLA for company and specific departments                
       &emsp;-       Create end users and login                   
- &emsp;
-       - Compose Ticket request themes and catagories
+     &emsp;
+           - Compose Ticket request themes and catagories
+
+2. Process Tickets
+
+      &emsp;-  Assign Agents to tickets with their corresponding departments &emsp; &emsp;
+      &emsp;             
+          &emsp;- Ecalate Tickets to System Admin 
 
  <h2>Configuration Steps</h2> 
 -Images
@@ -29,9 +35,8 @@
 3. Assign Permissions 
 
 
-<h2>Working through Tickets</h2>
+<h2>Working through Tickets</h2> (Images)
 
-- Item 1
 - Assign Agents to tickets with their corresponding departments
 - Ecalate Tickets to System Admin 
 - Item 4
