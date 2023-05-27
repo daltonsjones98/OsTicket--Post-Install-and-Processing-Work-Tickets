@@ -8,15 +8,11 @@
 
 
    - Local Host PC and Azure Virtual Machine 
-   - Remote Desktop
+   - Remote Desktop 
+   - Windows 10</b> (21H2)
    - Internet Information Services (IIS)
    - osTicket
 
-&emsp;
-
-
-   _<h3>Operating Systems Used </h3>_
-                   - Windows 10</b> (21H2)
 
 &emsp;
 &emsp;
