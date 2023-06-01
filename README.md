@@ -1,44 +1,40 @@
 # OsTicket--Post-Install-and-Processing-Work-Tickets
 
-&emsp;
 
-<ol type="I">
-	
- <h2>Environments and Applications Used</h2> 
+ <h3>Environments and Applications Used</h3> 
 
 
-   - Local Host PC and Azure Virtual Machine 
-   - Remote Desktop 
-   - Windows 10</b> (21H2)
-   - Internet Information Services (IIS)
-   - osTicket
+   - _Local Host PC and Azure Virtual Machine_ 
+   - _Remote Desktop_ 
+   - _Windows 10</b> (21H2)_
+   - _Internet Information Services_ (IIS)
+   - _osTicket_
 
 
-&emsp;
-&emsp;
 
   <h3>Post-Install Configuration Objectives</h3>
 
    1. Complete helpdesk setup
 
-      - Create Departments, Agents, and Teams                     
-      - Create SLA for company and specific departments                
-      -  Create end users and login                   
-      - Compose Ticket request themes and catagories
+      - _Create Departments, Agents, and Teams_                     
+      - _Create SLA for company and specific departments_                
+      -  _Create end users and login_                   
+      - _Compose Ticket request themes and catagories_
 
-2. Process Tickets
 
-      - Assign Agents to tickets with their corresponding departments
-      - Ecalate Tickets to System Admin 
 
-&emsp;
+   2. Process Tickets
+
+      - _Assign Agents to tickets with their corresponding departments_
+      - _Ecalate Tickets to System Admin_ 
+
 
  <h3>Configuration Steps</h3>
 -Images
 
-1. Create Agents, Departments, and Teams 
-2. Create end users and login
-3. Assign Permissions 
+   1. Create Agents, Departments, and Teams 
+   2. Create end users and login
+   3. Assign Permissions 
 
 &emsp;
 
